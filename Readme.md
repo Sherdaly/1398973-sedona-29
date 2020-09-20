@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Шердалы Мамбеткулов](https://up.htmlacademy.ru/htmlcss/29/user/1398973).
-* Наставник: "[Алим Нагоев](https://htmlacademy.ru/profile/id911531)".
+* Наставник: "[Александр Григорьев]https://htmlacademy.ru/profile/fuckhtml".
 
 ---
 
