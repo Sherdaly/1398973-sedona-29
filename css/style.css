@@ -1,0 +1,146 @@
+:root {
+    --basic-black:  #000000;
+    --basic-dark:  #333333;
+    --basic-light-blue: #81B3D2;
+    --basic-brown: #766357;
+    --basic-white: #FFFFFF;
+    --basic-extra-white: rgba(255, 255, 255, 0.9);
+    --basic-gray: #EEEEEE;
+}
+
+body {
+    min-width: 1200px;
+    margin: 0;
+    padding: 0;
+    font-family: "PT Sans Narrow", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 700;
+    color: var(--basic-black);
+    text-transform: uppercase;
+    background-color: var(--basic-white);
+}
+
+a {
+    text-decoration: none;
+    color: var(--basic-black);
+}
+.header-link {
+    list-style-type: none;
+    font: bold;
+}
+.header-item {
+    color: var(--basic-black);
+    font: bold;
+    font-size: 14px;
+}
+.small {
+    font: bold;
+    font-size: 21px;
+    line-height: 26px;
+    color: var(--basic-black);
+}
+.small-desc {
+    font: 400;
+    font-size: 14px;
+    color: var(--basic-dark);
+}
+
+.tour-subtitle {
+    font: bold;
+    font-size: 21px;
+    line-height: 21px;
+    color: var(--basic-white); /*из за белого фона не виден текст*/
+    background-color: var(--basic-light-blue);
+}
+.tour-subtitle p {
+    font: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: var(--basic-white); /*из за белого фона не виден текст*/
+}
+
+.service-link {
+    list-style: none;
+    font: bold;
+    font-size: 21px;
+    color: var(--basic-black);
+}
+ p {
+    font: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.tourism {
+    background-color: var(--basic-gray);
+}
+
+.tourism-subtitle {
+    font: bold;
+    font-size: 21px;
+    line-height: 21px;
+    color: var(--basic-white); /*из за белого фона не виден текст*/
+    background-color: var(--basic-light-blue);
+}
+.tourism-subtitle p {
+    font: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: var(--basic-white); /*из за белого фона не виден текст*/
+}
+.tourism-link {
+    list-style: none;
+    font: bold;
+    font-size: 21px;
+    line-height: 21px
+}
+.tourism-link p {
+    font: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: var(--basic-dark);
+}
+.search-title {
+    font: bold;
+    font-size: 30px;
+    line-height: 24px;
+    color: var(--basic-black);
+}
+p {
+    color: var(--basic-dark);
+    font: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+.search-link {
+    font: bold;
+    font-size: 21px;
+    color: var(--basic-white);
+    background-color: var(--basic-light-blue);
+}
+
+.main-footer {
+    background-color: var(--basic-extra-white);
+
+}
+.main-contacts {
+    font: bold;
+    font-size: 21px;
+    color: var(--basic-black);
+}
+
+.main-link {
+    list-style: none;
+}
+.main-link li a {
+    background-color: var(--basic-light-blue);
+    color: var(--basic-white);
+}
+.link {
+    font: 400;
+    font-size: 14px;
+    line-height: 26px;
+    color: var(--basic-black);
+}
+
